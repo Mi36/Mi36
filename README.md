@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammed Illyas
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning react native.
 - 📫 Connect with me via LinkedIn: www.linkedin.com/in/muhammed-illyas-b1a230183
 
 <!---
